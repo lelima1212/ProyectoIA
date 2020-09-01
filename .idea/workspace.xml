@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="175dd7ea-9e8b-4492-9e06-35fa8b594c70" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Proyecto IA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Proyecto IA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entrenar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Entrenar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Predecir.py" beforeDir="false" afterPath="$PROJECT_DIR$/Predecir.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img029.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img030.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img040.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img042.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img055.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img056.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img057.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img059.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img061.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img062.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img063.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img066.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img067.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img068.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img069.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img070.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img071.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img072.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img073.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img074.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img075.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img076.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img077.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img078.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img079.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img080.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img081.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img082.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img083.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img084.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img085.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img086.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img087.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img088.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img089.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img090.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img091.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img092.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img093.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img094.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img095.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img096.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img097.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img098.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img099.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img101.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img102.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img106.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img107.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img114.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img119.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img120.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img123.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img124.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img125.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img126.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img127.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img131.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img132.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img133.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img134.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cavendish/img135.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img025.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img034.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img055.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img056.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img057.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img059.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img062.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img063.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Orito/img065.jpg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gsUmCd6w5agiR30DOuuiIFXlVW" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="175dd7ea-9e8b-4492-9e06-35fa8b594c70" name="Default Changelist" comment="" />
+      <created>1598902949629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598902949629</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
